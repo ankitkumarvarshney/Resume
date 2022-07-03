@@ -18,7 +18,7 @@ To work in a firm with a professional work driven environment where I can utiliz
     • 10+2 from MIC school, Bulandshahr (State Board).
     • 10th from MIC school, Bulandshahr (State Board).
 
- ## I.T. SKILLS	
+## I.T. SKILLS	
 - Language
 -- HTML, CSS, Ruby, Ruby on Rails (RoR), jQuery, AJAX, Bootstrap, Core JAVA.
 - Framework
@@ -60,7 +60,7 @@ To work in a firm with a professional work driven environment where I can utiliz
         ◦ Project Title	:	Exalogic Solutions pvt. Ltd. (Office Management System)
         ◦ Project Title	:	IES management app (school, college,trust, hr, finance mgmt app)
         ◦ Project title	:	Pureloan (loan search engine)
-        ◦ Project title :	Bambl (product sell & rental. **support multi language)
+        ◦ Project title :   Bambl (product sell & rental. **support multi language)
 
 ## Recently worked projects
 
