@@ -1,7 +1,10 @@
 
-## Ankit Kumar Varshney
+## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ankit-varshney19" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-varshney19?trk=profile-badge">Ankit Varshney</a></div>
 - E-Mail ID: varshney1900@gmail.com
 - Mobile & Skype-ID: +91-9258738756
+
+
+              
 
 
 ## CAREER OBJECTIVE	
