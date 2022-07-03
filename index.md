@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ankitkumarvarshney/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Ankit Kumar Varshney
+- E-Mail ID: varshney1900@gmail.com
+- Mobile & Skype-ID: +91-9258738756
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## CAREER OBJECTIVE	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To work in a firm with a professional work driven environment where I can utilize and apply my knowledge, skills which could me as a graduate to grow while fulfilling organizational goals.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## EDUCATIONAL QUALIFICATIONS	
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+    • Completed Diploma in Advanced Computing from CDAC Knowledge Park Bangalore.
+    • MCA from Feroze Gandhi Inst. Of Engineering & Technology, Raebareli – (UPTU) with First Division with Honor’s.
+    • BCA from I.P College, Bulandshahr - CCS University Meerut.
+    • 10+2 from MIC school, Bulandshahr (State Board).
+    • 10th from MIC school, Bulandshahr (State Board).
 
-**Bold** and _Italic_ and `Code` text
+ ## I.T. SKILLS	
+- Language
+-- HTML, CSS, Ruby, Ruby on Rails (RoR), jQuery, AJAX, Bootstrap, Core JAVA.
+- Framework
+-- Ruby on rails
+- JS Framework
+-- ReactJS*
+- Ruby gems Expertise
+-- Axlsx Gem, Roo Gem, Pdf Prawn gem, carrierwave gem, paperclip, sidekiq, Devise, OmniAuth (google,facebook), bread Crum, factorygirl, JWT.
+- Database
+-- SQLite, MySQL, PostgreSQL, Neo4j
+- Operating system
+-- Windows, Linux
+- Application Server
+-- Webrick server (RoR), Puma server (RoR), JBoss(Java), Apache Tomcat(Java), Bea WebLogic(Java).
+- Web Server
+-- Apache2, Nginx
+- Online web deployment Server:
+-- Heroku web server, AwsEC2.
+- Project Versioning /Code Sharing:
+-- GitHub, GitLab, bitbucket.
+- CI/CD
+-- Jenkins
 
-[Link](url) and ![Image](src)
-```
+- Containerization Tool:
+-- Docker
+- Testing:
+-- Unit testing, Rspec, capybara
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## EXPERIENCE	
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankitkumarvarshney/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        ◦ Currently working with NIIT Technologies (COFORGE), greater Noida from Jan-2021 to till now.
+        ◦ Worked with Optimal virtual employee, Noida from Nov-2019 to Jan-2021 as Sr. Ruby on rails developer.
+        ◦ Worked in Talentelgia technology from Feb-2018 to Nov-2019 as Ruby on rails developer from Feb-2018.
+        ◦ Worked may-2016 to Feb-2018 as Ruby on Rails Developer in Exalogic Solutions Bangalore.
+        ◦ 1 year working experience as Assist. Professor & associate I.T. Dept. (JAVA) at Monad University Hapur.
+## 	PROJECTS	
+        ◦ Project Title	:	InMegh School (School Management System)
+        ◦ Project Title	:	Exalogic Solutions pvt. Ltd. (Office Management System)
+        ◦ Project Title	:	IES management app (school, college,trust, hr, finance mgmt app)
+        ◦ Project title	:	Pureloan (loan search engine)
+        ◦ Project title :	Bambl (product sell & rental. **support multi language)
 
-### Support or Contact
+## Recently worked projects
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Alkhemy
+Role	: Developer.
+Technology	: Ruby on Rails, AWS, PostgreSQL, Salesforce, CRM. Description 	: It is a Sales Performance Management system.
+
+File-room
+Role	: Developer.
+Technology	: Ruby on Rails, Heroku, PostgreSQL, Angular, Salesforce. Description 	: It is a B2B Content management system.
+
+NIIT Internal Tool
+Role	: Developer.
+Technology	: Ruby on Rails, Heroku, PostgreSQL.
+Description	 : It is a CMS Tool which fetches data from different sources and displays it into the form of graphs and Reports.
+
+
+
+## ACHIEVEMENTS	
+
+
+    ▪ Won Multiple time best employee, star employee of the month, best rookie awards with cash prize and Gift-card vouchers.
+    ▪ Rewarded 10000rs and Certification by National Skill Development Corporation (N.S.D.C), Delhi India, at college level.
+    ▪ Cross-country Race winner at School Level.
+    ▪ Cycle race Winner at School Level.
+    ▪ I have NCC (National cadet core) Certificate with Grade A at school level.
